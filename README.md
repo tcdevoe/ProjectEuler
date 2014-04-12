@@ -1,0 +1,1 @@
+This is a GitHub repo to back up my Project Euler solutions. Feel free to steal them.
